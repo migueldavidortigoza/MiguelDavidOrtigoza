@@ -11,31 +11,30 @@
 
 
 ## 🧩 Sobre mí
-soy desarrolador web en crecimiento, con una base sólida en tecnologías modernas y una capacidad real para costruir proyectos desde cero.
-Me enfoco en aprender rápido, resolver problemas y entregar trabajos completos y funcionales.
+soy un desarrolador web en crecimiento, con una base sólida en JavaScript y una capacidad real para costruir proyectos desde cero.
+Me enfoco en aprender rápido, resolver problemas y entregar soluciones completas y funcionales.
 
-Busco oportunidades remotas donde pueda aportar valor, seguir creciendo y construir soluciones reales.
+Actualmente busco oportunidades **remotas** como desarrollador **Front-End / Back-End / Full-Stack junior**.
 
-- **HTML / CSS / JavaScrip**
-- **Node.js + Express**
-- **APIs, JSON, autenticación JWT**
-- **MongoDB + Mongoose**
-- **Git & GitHub (manejo avanzado)**
-- Desarrollonde proyectos reales desde cero
+Me gustan los proyectos que conbinan lógica, diseño y manejo de datos. 
+Siempre creando, aprendiendo y avanzando. 
 
 
 ---
 
 
+## 🛠️ Tecnologías y herramientas
+
+
 ### 🌐 Frontend
 - HTML5
 - CSS3
-- JavaScript (DOM, eventos, arrays, LocalStorage)
+- JavaScript (DOM, eventos, LocalStorage)
 - Responsive Design
 - Animaciones y UI/UX simples
 
 
-### ⚙️ Backend
+### ⚙️ Backend & APIs
 - Node.js
 - Express
 - Controladores, rutas, middlewares
@@ -45,22 +44,21 @@ Busco oportunidades remotas donde pueda aportar valor, seguir creciendo y constr
 
 ### 🗄️ Base de datos
 - MongoDB (Atlas)
-- Mongoose (modelos, esquemas, queries)
+- Mongoose (modelos, esquemas, validaciones)
 
 ### 🔧 Herramientas
-- Git & GitHub (flujo profesional)
+- Git & GitHub
 - VS Code
 - Nodemon
 - Fetch API
 - Postman
+- Render (deploy)
 
 
 ---
 
 
-## 🧠 Proyectos desarrollados
-
-> Estos son mis proyectos más completos y representativos.
+## 🧠 Proyectos Destacados
 
 
 ## 🗂️ **Gestor de Tareas PRO - Full Stack**
@@ -140,14 +138,15 @@ Carrito completo: agrega, elimina, suma totales y guarda en localStorage.
 
 ---
 
+# 📈 Estadísticas de GitHub
 
-# 📚 Actualmente aprendiendo
+<p align="center">
+  <img src="https://github-readme-status.vercel.app/api?username=migueldavidortigoza&show_icons=true&theme=tokyonight" height="160">
+  <ing src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldavidortigoza&layout=compact&theme=tokyonight" height="160">
+</p>  
 
-- Autentificación avanzada (JWT + refresh tokens)
-- Rutas protegidas
-- Deploy de APIs
-- MongoDB avanzado (Indexación, agregaciones)
-- Patrones de diseño y arquitectura limpia
+
+---
 
 
 # 📬 Contacto
