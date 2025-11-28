@@ -11,7 +11,7 @@
 
 
 ## 🧩 Sobre mí
-soy un desarrolador web en crecimiento, con una base sólida en JavaScript y una capacidad real para costruir proyectos desde cero.
+Soy un desarrolador web en crecimiento, con una base sólida en JavaScript y una capacidad real para costruir proyectos desde cero.
 Me enfoco en aprender rápido, resolver problemas y entregar soluciones completas y funcionales.
 
 Actualmente busco oportunidades **remotas** como desarrollador **Front-End / Back-End / Full-Stack junior**.
